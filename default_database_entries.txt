@@ -1,0 +1,23 @@
+Account Details:
+________________
+
+Student:
+-----
+
+email: ankit@moocms
+pass: qwerty
+
+email: kdsarora@moocms
+pass: 123456
+
+Faculty:
+--------
+
+email: dps@moocms
+pass: qwerty
+
+Administrator:
+--------------
+
+email: admin@moocms
+pass: qaz
